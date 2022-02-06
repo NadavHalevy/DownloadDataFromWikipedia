@@ -1,6 +1,6 @@
 Description:
 
-DownloadDataFromWikipedia is a python program that will output all of the “collateral adjectives” and all of the “animals” which belong to it,
+DownloadDataFromWikipedia is a python program that will write output all of the “collateral adjectives” and all of the “animals” which belong to it,
 frome  page https://en.wikipedia.org/wiki/List_of_animal_names.
 
 Libraries to be installed in the system:
